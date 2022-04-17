@@ -1,11 +1,10 @@
 Package: GSOCDemo
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Demo R package for GSOC Proposal: VedicDateTime(Part A) 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Ritwick Pal
+Maintainer: "Ritwick Pal" <ritwick20461@iiitd.ac.in>
+Description: Dummy package made for Hard test of VedicDateTime (Part A) Proposal
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
