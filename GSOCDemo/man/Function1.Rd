@@ -7,7 +7,7 @@
 Function1(Value)
 }
 \arguments{
-\item{...}{numeric value}
+\item{Value}{numeric value}
 }
 \value{
 square of the numeric value

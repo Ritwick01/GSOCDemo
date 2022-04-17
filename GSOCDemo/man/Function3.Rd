@@ -7,7 +7,7 @@
 Function3(Value)
 }
 \arguments{
-\item{...}{numeric value}
+\item{Value}{numeric value}
 }
 \value{
 fourth power of the numeric value

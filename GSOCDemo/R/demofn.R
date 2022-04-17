@@ -3,8 +3,7 @@
 #' @author
 #' Ritwick Pal \email{ritwick20461@iiitd.ac.in}
 #'
-#' @param ... numeric value
-#'
+#' @param Value numeric value
 #' @return square of the numeric value
 #' @export
 Function1<-function(Value)
@@ -19,7 +18,7 @@ Function1<-function(Value)
 #' @author
 #' Ritwick Pal \email{ritwick20461@iiitd.ac.in}
 #'
-#' @param ... numeric value
+#' @param Value numeric value
 #'
 #' @return third power of the numeric value
 #' @export
@@ -34,8 +33,7 @@ Function2<-function(Value)
 #' @author
 #' Ritwick Pal \email{ritwick20461@iiitd.ac.in}
 #'
-#' @param ... numeric value
-#'
+#' @param Value numeric value
 #' @return fourth power of the numeric value
 #' @export
 Function3<-function(Value)
@@ -49,8 +47,7 @@ Function3<-function(Value)
 #' @author
 #' Ritwick Pal \email{ritwick20461@iiitd.ac.in}
 #'
-#' @param ... numeric value
-#'
+#' @param Value numeric value
 #' @return fifth power of the numeric value
 #' @export
 Function4<-function(Value)
@@ -64,8 +61,7 @@ Function4<-function(Value)
 #' @author
 #' Ritwick Pal \email{ritwick20461@iiitd.ac.in}
 #'
-#' @param ... numeric value
-#'
+#' @param Value numeric value
 #' @return sixth power of the numeric value
 #' @export
 Function5<-function(Value)

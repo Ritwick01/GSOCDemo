@@ -7,7 +7,7 @@
 Function4(Value)
 }
 \arguments{
-\item{...}{numeric value}
+\item{Value}{numeric value}
 }
 \value{
 fifth power of the numeric value
